@@ -5,16 +5,13 @@ numpy==2.0.2
 openpyxl==3.1.5
 
 # NSE Data Packages
-nsepy==1.0.0
+nsepy==0.8  # Latest available version
 nsetools==0.3.9
 requests==2.32.3
 
 # Date/Time Handling
 python-dateutil==2.9.0.post0
 pytz==2024.2
-
-# Excel Formatting
-openpyxl==3.1.5
 
 # Visualization (optional)
 matplotlib==3.9.3
